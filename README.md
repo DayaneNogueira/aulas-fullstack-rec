@@ -1,2 +1,2 @@
 # aulas-fullstack
-Prova de recuperação com os comandos de Git vistos em aula
+Prova de comandos do Git vistos em aula
